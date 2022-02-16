@@ -5,4 +5,5 @@ MinerProxy以太坊中转转向，支持以太坊水平台抽水功能，新版�
 ![QQ图片20220217035809](https://user-images.githubusercontent.com/74077677/154346174-6bfdfe56-559f-4034-88ef-7f07a22a78ea.png)
 
 以太坊中转交流QQ群：703764285   
-![软件交流群群聊二维码](https://user-images.githubusercontent.com/74077677/154346472-a1ab8ec3-bd9b-4e08-ba85-f09972361b50.png)
+
+![QQ图片20220217040334](https://user-images.githubusercontent.com/74077677/154346688-acb9af8b-d911-4390-bdab-31653f0b4677.jpg)
